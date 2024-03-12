@@ -21,10 +21,6 @@ Front-End : <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-fl
 | ------------ | ----------- | ----------- | ----------- |
 | <img width="500" alt="3" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/d637dd40-a7c2-4378-9583-4a3727a1344d"> | <img width="500" alt="4" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/d774b6cf-01e1-4a10-bb9b-a457cf1a06a9"> | <img width="500" alt="5" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/e7f24a17-4743-4db1-ae98-dbf20108c650"> | <img width="500" alt="6" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/d9b304c4-a4f4-43b6-bb06-0beccbf26c27"> |
 
-| ERD | API |
-| ------------ | ------------ |
-| <img width="860" alt="ERD" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/a02dc13e-7c9c-49ed-aaf7-0a3db343a8aa"> | <img width="1278" alt="api 명세서" src="https://github.com/seheonnn/bareuni-BE/assets/101795921/a32c67d1-ee62-4d8a-b77d-03a00131fab3"> |
-
 # 📢 프로젝트 홍보 포스터
 ![포스터2](https://github.com/seheonnn/bareuni-BE/assets/101795921/f1c12a42-7d31-4996-b508-12cd299153e0)
 ![포스터1](https://github.com/seheonnn/bareuni-BE/assets/101795921/7b39ec07-cf5c-4b99-a34b-bbbc860abe93)
