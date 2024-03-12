@@ -8,8 +8,7 @@
 - 영수증 인증 후기를 통하여 보다 정확한 후기를 참고할 수 있습니다. 
 
 # 🛠️ 사용 기술
-Front-End : <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-flat&logo=swift&logoColor=white">
-<br>
+iOS : UIKit, SwiftUI, Alamofire, KeychainSwift
 
 # 📺 프로젝트 화면 
 
